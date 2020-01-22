@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: Klasa 1b
 description: [Informacje organizacyjne]
-is_project_page: false
+github:
+  is_project_page: false
